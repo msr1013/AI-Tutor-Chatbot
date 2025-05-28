@@ -1,0 +1,6 @@
+uvicorn
+python-dotenv
+langchain
+openai
+langchain-openai
+langchain-community
